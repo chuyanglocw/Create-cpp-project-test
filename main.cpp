@@ -1,5 +1,5 @@
 #include "hello/hello.h"
-#include "world.h"
+#include "world/world.h"
 
 int main() {
     hello();
