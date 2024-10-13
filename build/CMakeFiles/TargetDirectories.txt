@@ -1,0 +1,3 @@
+D:/Git/Create-cpp-project-test/build/CMakeFiles/main.dir
+D:/Git/Create-cpp-project-test/build/CMakeFiles/ALL_BUILD.dir
+D:/Git/Create-cpp-project-test/build/CMakeFiles/ZERO_CHECK.dir
